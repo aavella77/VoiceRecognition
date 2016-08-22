@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, VoiceRecognitionAl!</string>
+    <string name="app_name">VoiceRecognitionAl</string>
+<string name="speak">This application recognizes your voice</string>
+<string name="say">Click Here and Say Something</string>
+</resources>
